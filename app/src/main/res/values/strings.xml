@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Penjualan</string>
+    <string name="title_activity_agent">AgentActivity</string>
+    <string name="title_activity_agent_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
