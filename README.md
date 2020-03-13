@@ -1,6 +1,6 @@
-# node-for-online-shop
 
-how to install the application <br>
+
+#how to install the application <br>
   -clone or download file <p>
   -Open the application file in Android Studio <p>
   -run android on emulator or on cellphone directly<p>
